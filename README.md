@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Susan Aryal
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ML.
 - 📫 Contact me on susanaryal089@gmail.com
 <!---
 arsusan/arsusan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
