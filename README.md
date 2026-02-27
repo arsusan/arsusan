@@ -19,28 +19,6 @@ I am a software developer passionate about building intelligent systems. Current
 
 **Artificial Intelligence**
 
-**Mobile & Web**
-
----
-
-
-### GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsusan&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Susan's GitHub Stats" height="170px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsusan&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" height="170px" />
-</div>
-
----
-
-### Featured Project: NeuroScan AI
-
-> **An end-to-end medical AI suite.** > * Includes a FastAPI backend, a Next.js web dashboard, and an Expo mobile app.
-> * Implements Grad-CAM for explainable AI in brain tumor detection.
-> 
-> 
-
 ---
 
 ### Connect with Me
