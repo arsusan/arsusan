@@ -16,8 +16,11 @@ I am a software developer passionate about building intelligent systems. Current
 ### Skills & Tech Stack
 
 **Programming & Backend**
+
 **Artificial Intelligence**
+
 **Mlops(CI/CD)**
+
 
 ---
 
