@@ -19,12 +19,6 @@ I am a software developer passionate about building intelligent systems. Current
 
 **Artificial Intelligence**
 
+**Mlops(CI/CD)**
 ---
 
-### Connect with Me
-
-* 📧 **Email:** [susanaryal089@gmail.com](mailto:susanaryal089@gmail.com)
-* 💼 **LinkedIn:** https://www.linkedin.com/in/susan-aryal-4665681b8/ 
-* 🌐 **Portfolio:** https://susanaryal.com.np/ 
-
---- 
